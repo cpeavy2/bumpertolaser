@@ -3,7 +3,7 @@
 
 Run "catkin_create_pkg bumpertolaser" to create the bumpertolaser package.
  
-Paste "bumpertolaser.py" into the bumper folder.
+Paste "bumpertolaser.py" into the bumpertolaser folder.
  
 Make "bumpertolaser.py" executable with the "chmod +x bumpertolaser.py" command.
 
